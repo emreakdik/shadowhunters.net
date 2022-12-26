@@ -1,0 +1,402 @@
+{
+    "saldiri-kartlari": 
+    [
+        {
+            "baslik": "Peau de Banane",
+            "image": "peau_de_banane.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Ekipman kartlarınızdan birini başka bir karaktere verin. Ekipman kartınız yoksa 1 yara alırsınız."
+        },
+        {
+            "baslik": "Araignée Sanguinaire",
+            "image": "araignee_sanguinaire.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Seçtiğiniz başka bir oyuncu ile birlikte 2 yara alırsınız."
+        },
+        {
+            "baslik": "Tronçonneuse Du Mal",
+            "image": "tronconneuse_du_mal.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Saldırınız başarılı olursa, fazladan 1 yara daha açarsınız."
+        },
+        {
+            "baslik": "Sabre Hante Masamune",
+            "image": "sabre_hante_masamune.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Sıra size geldiğinde başka bir karaktere saldırmalısınız. Bu saldırı için yalnızca 4 taraflı zar kullanır (1 ila 4 arasında yara açarsınız)."
+        },
+        {
+            "baslik": "Rituel Diabolique",
+            "image": "rituel_diabolique.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "SHADOW iseniz , kimliğinizi açıklayabilirsiniz. Bunu yaparsanız veya zaten kimliğinizi açığa çıkmışsa tüm yaralarınızı iyileştirirsiniz."
+        },
+        {
+            "baslik": "Dynamite",
+            "image": "dynamite.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "2 zar atarsınız ve zar atma sonucunun toplamı ile gösterilen konumdaki tüm karakterlere 3'er yara açarsınız (sonucun 7 olması dışında)."
+        },
+        {
+            "baslik": "Revolver des Tenebres",
+            "image": "revolver_des_tenebres.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Sizinki dışındaki tüm konumlar, saldırı menzilinizin içindedir (Normal Konumunuz/menziliniz içindeki bir karaktere saldıramazsınız)."
+        },
+        {
+            "baslik": "Mitrailleuse Funeste",
+            "image": "mitrailleuse_funeste.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Saldırınız, saldırı menzilinizdeki tüm karakterleri etkiler (Zarı bir kez atın ve tüm karakterlerde aynı miktarda yara açın)."
+        },
+        {
+            "baslik": "Succube Tentatrice",
+            "image": "succube_tentatrice.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Bir karakterden Ekipman kartı çalarsınız."
+        },
+        {
+            "baslik": "Hache Tueuse",
+            "image": "hache_tueuse.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Saldırınız başarılı olursa, fazladan 1 yara daha açarsınız."
+        },
+        {
+            "baslik": "Hachoir Maudit",
+            "image": "hachoir_maudit.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Saldırınız başarılı olursa, fazladan 1 yara daha açarsınız."
+        },
+        {
+            "baslik": "Poupée Demoniaque",
+            "image": "poupee_demoniaque.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Başka bir oyuncuyu seçin ve 6 kenarlı zarı atın. Sonuç 1 ile 4 aralığında ise, bu karaktere 3 yara açarsınız. Sonuç 5 veya 6 ise 3 adet yara alırsınız."
+        },
+        {
+            "baslik": "Chauve-Souris Vampire",
+            "image": "chauve-souris_vampire.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Başka bir oyuncuda 2 yara açarsınız ve kendiniz 1 yaranızı iyileştirirsiniz."
+        }
+    ],
+
+    "bilgi-kartlari":
+    [
+        {
+            "baslik": "VISION DIVINE",
+            "image": "witch_blue.png",
+            "aciklama": "Bahse girerim sen bir HUNTER'sin. Eğer öyleyse, 1 yara al! (Ancak HUNTER olmamanıza rağmen hiç hasarınız yoksa, yine 1 puan hasar alırsınız!)"
+        },
+        {
+            "baslik": "VISION DESTRUCTRICE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim HP'niz 12 veya daha fazladır. Eğer öyleyse, 2 yara alırsınız!"
+        },
+        {
+            "baslik": "VISION FURTIVE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim bir HUNTER YA DA SHADOW'sun. Eğer öyleyse, kartı size veren oyuncuya bir Ekipman kartı vermeli veya 1 yara almalısınız."
+        },
+        {
+            "baslik": "VISION ENIVRANTE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim bir NEUTRE YA DA HUNTER'sin. Eğer öyleyse, kartı size veren oyuncuya bir Ekipman kartı vermeli veya 1 yara almalısınız."
+        },
+        {
+            "baslik": "VISION CLAIRVOYANTE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim HP'niz 11 veya daha azdır. Eğer öyleyse, 1 yara alırsınız!"
+        },
+        {
+            "baslik": "VISION PURIFICATRICE",
+            "image": "witch_red.png",
+            "aciklama": "Bahse girerim sen bir SHADOW'sun. Eğer öyleyse, 2 yara alırsınız."
+        },
+        {
+            "baslik": "VISION MORTIFERE",
+            "image": "witch_blue.png",
+            "aciklama": "Bahse girerim sen bir HUNTER'sin. Eğer öyleyse, 1 yara alırsınız."
+        },
+        {
+            "baslik": "VISION FOUDROYANTE",
+            "image": "witch_red.png",
+            "aciklama": "Bahse girerim sen bir SHADOW'sun. Eğer öyleyse, 1 yara alırsınız."
+        },
+        {
+            "baslik": "VISION CUPIDE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim bir NEUTRE VEYA bir SHADOW'sun. Eğer öyleyse, bu kartı size veren oyuncuya bir Ekipman kartı vermeli veya 1 yara almalısınız."
+        },
+        {
+            "baslik": "VISION LUGUBRE",
+            "image": "witch_red.png",
+            "aciklama": "Bahse girerim sen bir SHADOW'sun. Eğer öyleyse, 1 yaranızı iyileştirirsiniz. (Ancak, hiç yaranız yoksa, 1 yara alırsınız!)"
+        },
+        {
+            "baslik": "VISION RECONFORTANTE",
+            "image": "witch_yellow.png",
+            "aciklama": "Bahse girerim sen bir NEUTRE'sin. Eğer öyleyse, 1 yaranızı iyileştirirsiniz. (Ancak, hiç hasarınız yoksa, 1 yara alırsınız!)"
+        },
+        {
+            "baslik": "VISION SUPREME",
+            "image": "witch_yellow.png",
+            "aciklama": "Karakter kartınızı, bilgi kartını size veren oyuncuya gizlice göstermelisiniz."
+        }
+    ],
+
+    "savunma-kartlari":
+    [
+        {
+            "baslik": "MIROIR DIVIN",
+            "image": "miroir_divin.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "SHADOW veya METAMORPHE iseniz, kimliğinizi hemen açıklamanız gerekir."
+        },
+        {
+            "baslik": "AVENEMENT SUPREME",
+            "image": "avenement_supreme.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Avcı iseniz, kimliğinizi açıklayabilirsiniz. Bunu yaparsanız veya zaten açığa çıkmışsa, tüm yaralarınızı iyileştirirsiniz."
+        },
+        {
+            "baslik": "PREMIERS SECOURS",
+            "image": "premiers_secours.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Bir başka oyuncunun yara sayacını 7 olarak ayarlayın {hasar vermek için de kullanılabilir}."
+        },
+        {
+            "baslik": "BENEDICTION",
+            "image": "benediction.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Kendinizden başka bir oyuncu seçip 6 yüzlü zarı atın. Karakter, seçtiğiniz oyuncu zar sonucuna eşit miktarda yara iyileştirir."
+        },
+        {
+            "baslik": "ECLAIR PURIFICATEUR",
+            "image": "eclair_purificateur.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Kendiniz dışındaki tüm karakterler 2 yara alır."
+        },
+        {
+            "baslik": "BARRE DE CHOCOLAT",
+            "image": "barre_de_chocolat.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "ALLIE, EMI, AGNES, ELLEN, MOMIE VEYA METAMORPHE iseniz kimliğinizi açıklayabilirsiniz. Bunu yaparsanız veya zaten açığa çıkmışsa, tüm yaralarınızı iyileştirirsiniz."
+        },
+        {
+            "baslik": "SAVOIR ANCESTRAL",
+            "image": "savoir_ancestral.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Bu tur hakkınız bittiğinde sıra yine size gelecek."
+        },
+        {
+            "baslik": "ANGE GARDIEN",
+            "image": "ange_gardien.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "Bir sonraki sıranıza kadar diğer karakterlerden hasar almazsınız (daha sonra kartı atın)."
+        },
+        {
+            "baslik": "EAU BENITE",
+            "image": "eau_benite.png",
+            "uyari": "Bu kartı hemen kullanmalısınız.",
+            "aciklama": "2 yaranızı iyileştirin."
+        },
+        {
+            "baslik": "BROCHE DE CHANCE",
+            "image": "broche_de_chance.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Foret Hantee konum kartından hasar almazsınız (ancak hasarınızı iyileştirebilirsiniz)."
+        },
+        {
+            "baslik": "TOGE SAINTE",
+            "image": "toge_sainte.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Saldırılarınız 1 yara dadaha az yara açar ve aldığınız yara 1 azalır"
+        },
+        {
+            "baslik": "BOUSSELE MYSTIQUE",
+            "image": "boussele_mystique.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Hareket ettiğinizde zarları iki kez atabilir ve sonuçlardan birini seçebilirsiniz."
+        },
+        {
+            "baslik": "CRUCIFIX EN ARGENT",
+            "image": "crucifix_en_argent.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Başka bir karaktere saldırıp öldürürseniz, tüm Ekipman kartlarını alırsınız."
+        },
+        {
+            "baslik": "LANCE DE LONGINUS",
+            "image": "lance_de_longinus.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Bir <b>HUNTER</b> iseniz ve saldırınız hasar veriyorsa, kimliğinizi açığa çıkarabilirsiniz. Bunu yaparsanız veya zaten açığa çıkmışsa 2 ek yara daha açarsınız."
+        },
+        {
+            "baslik": "AMULETTE",
+            "image": "amulette.png",
+            "uyari": "EKİPMAN",
+            "aciklama": "Şu kartlardan yara almazsınız: <b>Araignee Sanguinaire</b>, <b>Dynamite</b> veya <b>Chauve-souris Vampire</b>."
+        }
+    ],
+
+    "karakter-kartlari":
+    [
+        {
+            "baslik": "ALLIE",
+            "image": "allie.png",
+            "uyari": "Zafer Koşulu: Oyunun sonuna kadar hayatta kalın.",
+            "aciklama": "Özel Yetenek: Tüm yaralarınızı iyileştirin (Tek kullanımlık)."
+        },
+        {
+            "baslik": "BOB",
+            "image": "bob.png",
+            "uyari": "Zafer Koşulu: En az 5 veya daha fazla Ekipman kartına sahip olmalısınız",
+            "aciklama": "Özel Yetenek: Eğer başka bir oyuncuyu öldürürseniz, o oyuncunun tüm kartlarını alabilirsiniz."
+        },
+        {
+            "baslik": "CHARLES",
+            "image": "charles.png",
+            "uyari": "Zafer Koşulu: Bir başkasını öldürdüğünüzde, ölü karakter sayısı en az 3 ise oyunu kazanırsınız.",
+            "aciklama": "Özel Yetenek: Bir karaktere saldırdıktan sonra aynı karaktere tekrar saldırmak için kendinize 2 yara açabilirsiniz."
+        },
+        {
+            "baslik": "DANIEL",
+            "image": "daniel.png",
+            "uyari": "Zafer Koşulu: Ölen ilk karaktersiniz VEYA tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel Yetenek: Başka bir karakter öldüğünde kimliğinizi ortaya çıkarmalısınız."
+        },
+        {
+            "baslik": "EMI",
+            "image": "emi.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel Yetenek: Tur sıranız geldiğinde hareket etmek için zar atmak yerine bitişik bir kart alanına ışınlanabilirsiniz."
+        },
+        {
+            "baslik": "FRANKLIN",
+            "image": "franklin.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel yetenek: Sıranızın başında, bir karakter seçebilir ve 6 taraflı zarı atarak ona yara açabilirsiniz (Tek kullanımlık)."
+        },
+        {
+            "baslik": "GEORGES",
+            "image": "georges.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel yetenek: Sıranızın başında bir karakter seçebilir ve 4 taraflı zarı atarak ona yara açabilirsiniz (oyun başına bir kez)."
+        },
+        {
+            "baslik": "METAMORPHE",
+            "image": "metamorphe.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Bir Bilgi Kartı verildiğinde, kartı tetikleyecek şekilde kimliğiniz hakkında yalan söyleyebilir veya hiçbir şey olmuyor diyebilirsiniz. Bu özel yeteneği kullanmak için kimliğinizi açıklamanıza gerek yok."
+        },
+        {
+            "baslik": "VAMPIRE",
+            "image": "vampire.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Bir oyuncuya saldırıp yara açtığınızda, anında kendi 2 yaranızı iyileştirirsiniz."
+        },
+        {
+            "baslik": "LOUP-GAROU",
+            "image": "loup-garou.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Bir oyuncu tarafından saldırıya uğradıktan sonra anında karşı saldırı yapabilirsiniz."
+        },
+        {
+            "baslik": "LICHE",
+            "image": "liche.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Sıra size geldiğinde ölü kişi sayısı kadar tekrar oynayabilirsiniz."
+        },
+        {
+            "baslik": "VALKYRIE",
+            "image": "valkyrie.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Saldırırken açacağınız yarayı belirlemek için sadece 4 taraflı zarı kullanın."
+        },
+        {
+            "baslik": "MOMIE",
+            "image": "momie.png",
+            "uyari": "Zafer Koşulu: Tüm HUNTER karakterleri öldü VEYA 3 NEUTRE karakteri öldü.",
+            "aciklama": "Özel Yetenek: Sıranızın başında PORTE DE L'OUTREMONDE konumunda bulunan bir oyuncuda 3 yara açabilirsiniz."
+        },
+        {
+            "baslik": "BRYAN",
+            "image": "bryan.png",
+            "uyari": "Zafer Koşulu: 13 can puanına sahip birisini öldürün YA DA oyun bittiğinde SANCTUAIRE ANCIEN'de olun.",
+            "aciklama": "Özel Yetenek: 12 can puanı ya da daha düşük can puanı olan birisini öldürürseniz karakter kartınızı ortaya çıkartmak zorundasınız."
+        },
+        {
+            "baslik": "FU-KA",
+            "image": "fu-ka.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel Yetenek: Sıranızın başında bir oyuncunun yara işaretini 7'ye koyun."
+        },
+        {
+            "baslik": "ELLEN",
+            "image": "ellen.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel Yetenek: Sıranızın başında bir oyuncuyu seçin, ve bu oyuncu oyun sonuna kadar özel yeteneğini kullanamaz (tek kullanımlık)."
+        },
+        {
+            "baslik": "AGNES",
+            "image": "agnes.png",
+            "uyari": "Zafer Koşulu: Sağınızdaki kazanırsa kazanırsınız.",
+            "aciklama": "Özel Yetenek: Oyun başında zafer koşulunuzu solunuzdakinin kazanması yönünde değiştirebilirsiniz."
+        },
+        {
+            "baslik": "DAVID",
+            "image": "david.png",
+            "uyari": "Zafer Koşulu: Oyun sonunda şu kartlardan en az 3'üne sahip olun: Crucifix en argent, Amulette, Lance de Longinusi Toge sainte.",
+            "aciklama": "Özel Yetenek: Kullanılmış desteden istediğiniz bir ekipman kartını alın."
+        },
+        {
+            "baslik": "CATHERINE",
+            "image": "catherine.png",
+            "uyari": "Zafer Koşulu: İlk ölen siz olun YA DA hayatta kalan iki karakterden biri olun.",
+            "aciklama": "Özel Yetenek: Sıranızın başında bir yaranızı iyileştirin."
+        },
+        {
+            "baslik": "GREGOR",
+            "image": "gregor.png",
+            "uyari": "Zafer Koşulu: Tüm SHADOW karakterleri öldü.",
+            "aciklama": "Özel Yetenek: Bu özelliği tur sıranızın sonunda etkinleştirebilirsiniz. Sıradaki tur boyunca yara almazsınız."
+        }
+    ],
+    "alan-kartlari":
+    [
+        {
+            "baslik": "PORTE DE L'OUTREMONDE",
+            "image": "porte_de_loutremonde.png",
+            "aciklama": "Seçtiğiniz kart destesinden bir kart çekersiniz."
+        },
+        {
+            "baslik": "SANCTUAIRE ANCIEN",
+            "image": "sanctuaire_ancien.png",
+            "aciklama": "Başka bir oyuncunun ekipman kartını çalabilirsiniz."
+        },
+        {
+            "baslik": "FORET HANTEE",
+            "image": "foret_hantee.png",
+            "aciklama": "Seçtiğiniz oyuncuya 2 yara açabilir ya da 1 yarasını iyileştiribilirsin."
+        },
+        {
+            "baslik": "MONASETRE",
+            "image": "monastere.png",
+            "aciklama": "Bir savunma kartı çekebilirsiniz."
+        },
+        {
+            "baslik": "ANTRE DE L'ERMITE",
+            "image": "antre_de_lermite.png",
+            "aciklama": "Bir bilgi kartı çekebilirsiniz."
+        },
+        {
+            "baslik": "CIMETIERE",
+            "image": "cimetiere.png",
+            "aciklama": "Bir saldırı kartı çekebilirsiniz."
+        }
+        
+        
+    ]
+    
+
+}
