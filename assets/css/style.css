@@ -1,0 +1,206 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900);
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to bottom, #8c7a7a 0%, #af877c 65%, #af877c 100%) fixed;
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/coc-background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font: 14px/20px "Lato", Arial, sans-serif;
+  color: #9E9E9E;
+  margin-top: 30px;
+}
+
+.card {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.slide-container {
+  margin: auto;
+  width: auto;
+  text-align: center;
+}
+
+.wrapper {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.wrapper:focus {
+  outline: 0;
+}
+
+.bg-primary {
+    background-color: black!important;
+}
+
+.bg-success {
+    background-color: green!important;
+}
+
+.bg-secondary {
+    background-color: white!important;
+}
+
+.bg-danger {
+    background-color: beige!important;
+}
+
+.clash-card {
+  background: white;
+  width: 300px;
+  display: inline-block;
+  margin: auto;
+  border-radius: 19px;
+  position: relative;
+  text-align: center;
+  box-shadow: -1px 15px 30px -12px black;
+  z-index: 9999;
+}
+
+.clash-card__image {
+  position: relative;
+  height: 230px;
+  margin-bottom: 35px;
+  border-top-left-radius: 14px;
+  border-top-right-radius: 14px;
+}
+
+.clash-card__image--barbarian {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/barbarian-bg.jpg");
+}
+.clash-card__image--barbarian img {
+	width: 275px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.clash-card__image--archer {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/archer-bg.jpg");
+}
+.clash-card__image--archer img {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.clash-card__image--giant {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/giant-bg.jpg");
+}
+.clash-card__image--giant img {
+  width: 340px;
+  position: absolute;
+  top: -30px;
+  left: -25px;
+}
+
+.clash-card__image--goblin {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/goblin-bg.jpg");
+}
+.clash-card__image--goblin img {
+  width: 370px;
+  position: absolute;
+  top: -21px;
+  left: -37px;
+}
+
+.clash-card__image--wizard {
+  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/195612/wizard-bg.jpg");
+}
+.clash-card__image--wizard img {
+  width: 345px;
+  position: absolute;
+  top: -28px;
+  left: -10px;
+}
+
+.clash-card__level {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.clash-card__level--barbarian {
+  color: rgba(95,208,104,1);
+}
+
+.clash-card__level--archer {
+  color: #EE5487;
+}
+
+.clash-card__level--giant {
+  color: #F6901A;
+}
+
+.clash-card__level--goblin {
+  color: #82BB30;
+}
+
+.clash-card__level--wizard {
+  color: rgba(250,234,177,1);
+}
+
+.clash-card__unit-name {
+  font-size: 26px;
+  color: black;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.clash-card__unit-description {
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.clash-card__unit-stats--barbarian {
+  background: linear-gradient(-90deg, rgba(95,208,104,1) 0%, rgba(75,134,115,1) 75%);
+}
+
+.clash-card__unit-stats--archer {
+  background: linear-gradient(-90deg, rgba(113,111,93,1) 0%, rgba(34,34,34,1) 75%);
+}
+
+.clash-card__unit-stats--giant {
+  background: linear-gradient(90deg, rgba(71,33,131,1) 50%, rgba(24,29,49,1) 85%);
+}
+
+.clash-card__unit-stats--goblin {
+  background: linear-gradient(-90deg, rgba(247,247,247,1) 50%, rgba(177,177,177,1) 85%);
+}
+
+.clash-card__unit-stats--wizard {
+	background: linear-gradient(90deg, rgba(250,234,177,1) 50%, rgba(250,248,241,1) 85%);
+  }
+
+.clash-card__unit-stats {
+  color: white;
+  font-weight: 700;
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+}
+.clash-card__unit-stats .one-third {
+  width: 33%;
+  float: left;
+  padding: 20px 15px;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+.slick-prev {
+  display: none;
+}
+
+.slick-next {
+  display: none;
+}
